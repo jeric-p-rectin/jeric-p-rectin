@@ -251,6 +251,4 @@ Designing intuitive interfaces with attention to detail
 
 <div align="center">
 
-**© 2025 Jeric's Portfolio | Built with ☕ and passion**
-
 </div>
