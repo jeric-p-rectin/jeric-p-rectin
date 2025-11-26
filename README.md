@@ -157,13 +157,7 @@ Designing intuitive interfaces with attention to detail
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeric-p-rectin&show_icons=true&theme=dark&bg_color=1a1a1a&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=c9c9c9&ring_color=ffffff" alt="GitHub Stats"/>
-&nbsp;
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeric-p-rectin&theme=dark&background=1a1a1a&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=888888" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeric-p-rectin&layout=compact&theme=dark&bg_color=1a1a1a&hide_border=true&title_color=ffffff&text_color=c9c9c9" alt="Top Languages"/>
 
 <br/><br/>
 
