@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2c2c2c,100:000000&height=200&section=header&text=HELLO.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20AM%20JERIC&descSize=25&descAlignY=55&descAlign=50"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=CREATIVE;INNOVATOR;DEVELOPER;PROBLEM+SOLVER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=CREATIVE;INNOVATOR;DEVELOPER;FULL-STACK+ENGINEER;PROBLEM+SOLVER" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,6 +20,8 @@
 <br/>
 
 <!-- About Section -->
+<img align="right" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding"/>
+
 ## ⚡ ABOUT ME
 
 I build **digital solutions** — from websites to mobile apps — to empower communities and local businesses.
@@ -157,13 +159,15 @@ Designing intuitive interfaces with attention to detail
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jeric-p-rectin&show_icons=true&theme=dark&bg_color=1a1a1a&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=c9c9c9&ring_color=ffffff" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeric-p-rectin&theme=dark&background=1a1a1a&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=888888" alt="GitHub Streak"/>
+<!-- Streak Stats - This one works -->
+<img width="70%" src="https://streak-stats.demolab.com?user=jeric-p-rectin&theme=dark&background=1a1a1a&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=888888" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeric-p-rectin&layout=compact&theme=dark&bg_color=1a1a1a&hide_border=true&title_color=ffffff&text_color=c9c9c9" alt="Top Languages"/>
+<!-- GitHub Stats - Using different provider -->
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeric-p-rectin&show_icons=true&theme=dark&bg_color=1a1a1a&hide_border=true&icon_color=ffffff&title_color=ffffff&text_color=c9c9c9&ring_color=ffffff" alt="GitHub Stats"/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeric-p-rectin&layout=compact&theme=dark&bg_color=1a1a1a&hide_border=true&title_color=ffffff&text_color=c9c9c9" alt="Top Languages"/>
 
 <br/><br/>
 
