@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:2c2c2c,100:000000&height=200&section=header&text=HELLO.&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20AM%20JERIC&descSize=25&descAlignY=55&descAlign=50"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=CREATIVE;INNOVATOR;DEVELOPER;FULL-STACK+ENGINEER;PROBLEM+SOLVER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&weight=400&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=70&lines=CREATIVE;INNOVATOR;DEVELOPER;PROBLEM+SOLVER" alt="Typing SVG" /></a>
 
 <br/>
 
